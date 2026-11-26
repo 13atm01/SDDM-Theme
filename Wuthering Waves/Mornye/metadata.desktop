@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Mornye
+Description=Wuthering Waves SDDM Theme featuring Mornye
+Author=Andi Trisna Mukti
+Copyright=(c) 2026 Andi Trisna Mukti
+License=GPL-3.0
+Version=1.0
+Theme-Id=Mornye
+Theme-API=2.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+Screenshot=assets/preview.png
+Type=sddm-theme
+QtVersion=6
