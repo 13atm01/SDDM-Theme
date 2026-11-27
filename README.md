@@ -7,6 +7,7 @@
 
 - <b>[🔧 Installation](#wrench-installation)</b>
   - [First installation way](#one-first-installation-way)
+  - [Second installation way](#two-second-installation-way)
 
 - <b>[©️ Copyright](#gift_heart-thanks-to)</b>
 
@@ -64,6 +65,30 @@
     sddm-greeter --test-mode --theme /usr/share/themes/Mornye  #Replace “Mornye” with the version you installed
     ```
     
+- Restart your SDDM
+
+    ```sh
+    sudo systemctl restart sddm    #Make sure to save all your work before run this command!
+    ```
+- Reboot your PC
+
+### :two: <b>Second installation way</b>
+
+- Download file from my KDE Store ([Wuthering Waves Version](https://store.kde.org/p/2382911/))
+- Extract it
+- Open terminal in the SDDM Theme folder you want to install
+- Setup the new SDDM Theme
+    
+    ```
+    sudo ./install.sh
+    ```
+
+- If you want to test/see the theme preview
+
+    ```sh
+    sddm-greeter --test-mode --theme /usr/share/themes/Mornye  #Replace “Mornye” with the version you installed
+    ```
+
 - Restart your SDDM
 
     ```sh
