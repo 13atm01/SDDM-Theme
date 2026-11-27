@@ -8,6 +8,7 @@
 - <b>[🔧 Installation](#wrench-installation)</b>
   - [First installation way](#one-first-installation-way)
   - [Second installation way](#two-second-installation-way)
+  - [Third installation way](#three-third-installation-way)
 
 - <b>[©️ Copyright](#gift_heart-thanks-to)</b>
 
@@ -95,6 +96,29 @@
     sudo systemctl restart sddm    #Make sure to save all your work before run this command!
     ```
 - Reboot your PC
+
+### :three: <b>Third installation way</b>
+
+- If you're using Desktop Environment KDE Plasma, go to:
+    
+    ```
+    System Settings
+    ```
+    ```
+    Appearance & Style
+    ```
+    ```
+    Colors & Themes
+    ```
+    ```
+    Login Screen (SDDM)
+    ```
+    ```
+    Get New...
+    ```
+    ```
+    Search my username "13atm01"
+    ```
 
 ## :gift_heart: Thanks to
  
